@@ -24,6 +24,9 @@ baseUrl: http://localhost:9411
 
 <img width="1438" alt="Screenshot 2024-06-04 at 1 31 24 AM" src="https://github.com/anshita2907/spring-boot-microservice/assets/89690825/1a881688-e08a-4f74-b64d-b31151f4a409">
 
+## API-GATEWAY:
+
+<img width="1439" alt="Screenshot 2024-06-04 at 2 07 20 AM" src="https://github.com/anshita2907/spring-boot-microservice/assets/89690825/3bbe05b4-fc40-47c2-a24f-ad7e92a55ed6">
 
 
 # ZIPKIN (Distributed Tracing System):
