@@ -5,8 +5,10 @@
 4. Run Order Service
 5. Run Payment Service
 
-## The quickest start is to run the latest image directly for zipkin:
+# Set up zipkin:
+### The quickest start is to run the latest image directly for zipkin
 docker run -d -p 9411:9411 openzipkin/zipkin
+baseUrl: http://localhost:9411
 
 # Swagger-UI:
 
